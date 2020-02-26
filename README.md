@@ -16,3 +16,5 @@ for this established Relationship on IMDB Movie dataset. Later we
 extend to Understand relationship between PCA and auto-encoder
 i.e.., under what constraints PCA is equivalent to Auto encoder
 using IRIS dataset.
+
+Code is available in corresponding Jupyter notebook files.
